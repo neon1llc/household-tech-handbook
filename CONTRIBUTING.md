@@ -1,7 +1,5 @@
 # Contributing
 
-Settings menus move and products change, so corrections help most.
-
 ## What helps most
 
 - Corrections when a phone, router, or service changes where a setting lives. Link to the vendor's own help page.
@@ -12,7 +10,7 @@ Settings menus move and products change, so corrections help most.
 
 - **Write for the family's tech lead**, who's capable but busy.
 - **Give the reason before the steps.** People skip steps they don't understand.
-- **Name tools when it helps, and give more than one,** including free options and the ones already built into phones.
+- **Name more than one tool,** including free options and ones built into phones.
 - **Never ask readers to write down passwords** in a template that could be lost or shared.
 - Use the serial comma.
 

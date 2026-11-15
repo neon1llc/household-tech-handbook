@@ -3,18 +3,18 @@ title: "6. Kids' devices"
 description: "A plan for children's tablets and first phones: family accounts, age-appropriate controls, and the conversations that matter more than the settings."
 ---
 
-Settings help, and the conversation matters as much. A child who knows they can tell you about something weird online, without losing their phone, is more likely to tell you early.
+Settings help, but the conversation matters as much. A child who knows they can tell you about something weird online without losing their phone is more likely to tell you early.
 
 ## Set up through a family account
 
-Create the child's account inside your family group, rather than letting them use yours or make their own:
+Create the child's account inside your family group, not on your account or their own:
 
 - **Apple:** Family Sharing, then Screen Time for the child's account.
 - **Google and Android:** Family Link.
 - **Microsoft, Xbox, and Windows:** Microsoft Family Safety.
 - **Game consoles:** Nintendo Parental Controls, PlayStation Family Management, and Xbox Family Settings.
 
-This gives you purchase approval, age ratings, screen time limits, and location sharing, and you can loosen them as they grow.
+These give you purchase approval, age ratings, screen time limits, and location sharing. Loosen them as the child grows.
 
 ## By age, roughly
 
@@ -32,7 +32,7 @@ This gives you purchase approval, age ratings, screen time limits, and location 
 - **Money scams aimed at kids**: free in-game currency, "skins," and gift cards.
 - **Sextortion**: if anyone threatens to share pictures, block them, keep the messages, and tell a parent before doing anything else. Paying rarely stops it. Take It Down (takeitdown.ncmec.org) can help remove images of minors.
 
-Keep phones charging outside bedrooms overnight, at least for younger kids. It helps sleep more than any app.
+Charge phones outside bedrooms overnight, at least for younger kids. It helps sleep more than any app.
 
 Ready, Secure, Go has the detail: [Have the family tech talk, and keep having it](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/people-and-culture/ppl-family-tech-talk.md), and a playbook for when [a kid's in trouble online](https://github.com/neon1llc/ready-secure-go/blob/main/content/playbooks/kid-in-trouble-online.md).
 

@@ -3,7 +3,7 @@ title: The handbook
 description: "Twelve chapters for the person who looks after a household's technology, from mapping what you have to planning for emergencies."
 ---
 
-Read in order the first time. Each chapter ends with a short **do this** list, so you can stop after any chapter with something finished.
+Read in order the first time. Each chapter ends with a **do this** list, so you can stop after any chapter with something finished.
 
 | # | Chapter | Prevents |
 |---|---|---|
@@ -23,4 +23,4 @@ Read in order the first time. Each chapter ends with a short **do this** list, s
 > [!TIP]
 > **Set it up once**
 >
-> Each chapter favors setups that keep working without you, so the same problems stop coming back.
+> Each chapter favors setups that keep working without you.

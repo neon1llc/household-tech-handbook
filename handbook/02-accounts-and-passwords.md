@@ -3,24 +3,24 @@ title: "2. Accounts and passwords"
 description: "A family password manager, two-step sign-in on every email, and recovery details that work, so nobody gets locked out."
 ---
 
-Each person's email is the master key to their digital life. Whoever controls it can reset the passwords for banking, shopping, social media, and photos. So email comes first, and recovery comes right after.
+Each person's email is the master key to their digital life. Whoever controls it can reset the passwords for banking, shopping, social media, and photos. So email comes first, then recovery.
 
 ## A password manager for the family
 
-A password manager remembers a different strong password for every site, fills them in, and warns you about reused or leaked ones. A family plan lets each person have their own private vault, plus shared vaults for the things you all use.
+A password manager remembers a different strong password for every site, fills them in, and warns you about reused or leaked ones. A family plan gives each person a private vault, plus shared vaults.
 
 - **Good options:** 1Password Families, Bitwarden Families (with a free individual tier), and Apple Passwords or Google Password Manager if your household is all on one platform.
 - **Shared vaults** for the Wi-Fi, streaming services, utilities, and the household tech sheet.
 - **Private vaults** for everything else. Teenagers need privacy too.
-- **An emergency kit or recovery method**, printed and kept somewhere safe, in case the main password is forgotten.
+- **An emergency kit or recovery method**, printed and kept safe, in case the main password is forgotten.
 
-Set it up for yourself first, then help one person at a time. Start with their email and bank, not all 200 accounts at once. The rest moves over as they sign in.
+Set it up for yourself first, then help one person at a time. Start with their email and bank, not all 200 accounts. The rest moves over as they sign in.
 
 Ready, Secure, Go has the detail: [Let a password manager remember for you](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/accounts-and-identity/acct-password-manager.md).
 
 ## Two-step sign-in
 
-Turn it on for every person's email first, then banking, then the family's Apple or Google account. Passkeys are the strongest and easiest option where they're offered. Text message codes are fine for people who find apps hard.
+Turn it on for every person's email first, then banking, then the family's Apple or Google account. Passkeys are the strongest and easiest option where offered. Text message codes are fine for people who find apps hard.
 
 Teach everyone one rule: **never read a sign-in code to anyone who asks.** Real companies don't.
 
@@ -35,7 +35,7 @@ For each person's email, check:
 
 ## Shared and family accounts
 
-Use the built-in family features instead of sharing one login: Apple Family Sharing, Google Family Link and family groups, and family profiles on streaming services. They let you add and remove people without changing a shared password.
+Use built-in family features instead of sharing one login: Apple Family Sharing, Google Family Link and family groups, and family profiles on streaming services. You can add and remove people without changing a shared password.
 
 ## Do this
 

@@ -8,7 +8,7 @@ Every device in the house reaches the internet through the router. It's the fron
 ## Find it and sign in
 
 1. Find the router. If your internet provider supplied it, it may be a combined modem and router.
-2. Look for the admin address and login on its label, or in the provider's app. Many now use an app instead of a web page.
+2. Look for the admin address and login on its label or in the provider's app.
 3. Sign in and **change the admin password** to a long, unique one stored in your password manager. If the label's password is still the admin password, anyone who's visited can change your settings.
 
 ## The settings that matter
@@ -22,11 +22,11 @@ Every device in the house reaches the internet through the router. It's the fron
 
 ## A guest network for guests and gadgets
 
-Most routers can run a second network. Put visitors on it, and put smart TVs, speakers, plugs, and cameras on it too. If one of those gadgets is ever compromised, it can't reach your laptops and phones.
+Most routers can run a second network. Put visitors on it, along with smart TVs, speakers, plugs, and cameras. If one of those gadgets is hacked, it can't reach your laptops and phones.
 
 ## Mesh systems and coverage
 
-If the Wi-Fi is weak upstairs, a mesh system (several units working together) usually beats a range extender. Mesh systems from the major brands also tend to update themselves, which is a good reason to choose one.
+If the Wi-Fi is weak upstairs, a mesh system (several units working together) usually beats a range extender. Mesh systems from major brands also tend to update themselves.
 
 Ready, Secure, Go has the detail: [Set up your router like you mean it](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/networks-and-wifi/net-router-basics.md) and [Give guests and gadgets their own Wi-Fi](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/networks-and-wifi/net-guest-network.md).
 

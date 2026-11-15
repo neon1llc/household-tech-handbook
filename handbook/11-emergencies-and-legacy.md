@@ -3,7 +3,7 @@ title: "11. Emergencies and digital legacy"
 description: "Make sure the family can get into what matters if you're ill, away, or gone: legacy contacts, an emergency card, and a plan for the password manager."
 ---
 
-If you're the household tech lead, you're also its single point of failure. This chapter makes sure someone else can step in.
+If you're the household tech lead, you're also its single point of failure. This chapter lets someone else step in.
 
 ## Legacy and recovery contacts
 
@@ -30,7 +30,7 @@ Fill in the [emergency card](../templates/emergency-card.md): where the househol
 
 ## Talk about it
 
-Have the conversation once, with your partner or a trusted family member, and again whenever something big changes. It's a short, practical talk that saves weeks of trouble.
+Talk it through with your partner or a trusted family member, and again whenever something big changes. It's short and saves weeks of trouble.
 
 ## Do this
 
