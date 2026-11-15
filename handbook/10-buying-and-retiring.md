@@ -5,12 +5,12 @@ description: "Check how long a device will get updates before you buy it, and wi
 
 ## Before you buy
 
-The most important spec nobody prints on the box: **how many years of security updates** the device will get.
+The spec nobody prints on the box: **how many years of security updates** the device gets.
 
 - **Phones:** Google gives Pixel 8 and later phones seven years of OS and security updates, counted from when each model went on sale. Samsung offers seven years on its recent flagship Galaxy phones. Apple supports iPhones for years but doesn't publish a fixed period. Cheaper Android phones may get far fewer, so check the maker's support page.
 - **Computers:** check that the model can run the current version of Windows or macOS, and how long that version is supported.
 - **Smart devices and routers:** check the maker publishes an update period ([chapter 8](08-smart-home.md)).
-- **Secondhand devices:** make sure the previous owner has removed it from their account (Activation Lock on Apple devices, Factory Reset Protection on Android), or you won't be able to use it.
+- **Secondhand devices:** make sure the previous owner removed it from their account (Activation Lock on Apple devices, Factory Reset Protection on Android), or you can't use it.
 
 neon1's Knowledge Center has a longer guide: [what to check before you buy](https://neon1.tech/knowledge/guides/before-you-buy/).
 
@@ -25,11 +25,11 @@ Before you sell, donate, trade in, or recycle anything:
 5. **Remove it** from your account's device list online, and from the [device inventory](../templates/device-inventory.csv).
 6. **Remove SIM and memory cards.**
 
-For old hard drives from computers that weren't encrypted, use the operating system's secure erase, or physically destroy the drive.
+For old hard drives that weren't encrypted, use the operating system's secure erase or destroy the drive.
 
 ## Where it goes
 
-Trade-in programs, certified e-waste recyclers, and many electronics stores take old devices. Don't put batteries or electronics in household trash.
+Trade-in programs, certified e-waste recyclers, and many electronics stores take old devices. Keep batteries and electronics out of household trash.
 
 Ready, Secure, Go has the detail: [Retire devices that can't get updates, and wipe them first](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/devices-and-updates/dev-retire-old-devices.md).
 

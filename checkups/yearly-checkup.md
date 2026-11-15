@@ -3,7 +3,7 @@ title: Yearly checkup
 description: "One afternoon a year to keep the household's tech in shape: accounts, backups, the router, devices, money, and emergency plans."
 ---
 
-Work through it with the [household tech sheet](../templates/household-tech-sheet.md) open, and update it as you go.
+Keep the [household tech sheet](../templates/household-tech-sheet.md) open and update it as you go.
 
 ## Accounts
 

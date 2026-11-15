@@ -3,7 +3,7 @@ title: "12. When something goes wrong"
 description: "The first steps for the common household emergencies: a hacked email, a lost phone, a scam, a data breach notice, or a child in trouble online."
 ---
 
-Move in order. Most of these can be fixed, and early action makes it easier.
+Work through the steps in order. Most of these can be fixed, and acting early helps.
 
 ## A hacked email or social account
 
@@ -41,13 +41,13 @@ Full playbook: [I got a data breach notice](https://github.com/neon1llc/ready-se
 
 ## A child is in trouble online
 
-Stay calm and thank them for telling you. Keep the evidence, block the account, don't pay without getting help first, and report it to the platform. For threats involving images of a minor, report to the NCMEC CyberTipline and use Take It Down.
+Stay calm and thank them for telling you. Keep the evidence, block the account, get help before paying, and report it to the platform. For threats involving images of a minor, report to the NCMEC CyberTipline and use Take It Down.
 
 Full playbook: [my child is in trouble online](https://github.com/neon1llc/ready-secure-go/blob/main/content/playbooks/kid-in-trouble-online.md).
 
 ## Afterward
 
-Write down what happened and what you changed, on the household tech sheet. Then do the [yearly checkup](../checkups/yearly-checkup.md) early, because one problem often points to another.
+Write down what happened and what you changed on the household tech sheet. Then do the [yearly checkup](../checkups/yearly-checkup.md) early, because one problem often points to another.
 
 ## Sources
 

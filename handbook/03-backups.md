@@ -3,11 +3,11 @@ title: "3. Backups"
 description: "Protect the photos, documents, and phones your family can't replace, with backups that run on their own and a restore you've tested."
 ---
 
-A dropped phone or a laptop that won't start can take years of photos with it, if they existed nowhere else. Backups are the fix.
+A dropped phone or a dead laptop can take years of photos with it if they exist nowhere else. Backups fix that.
 
 ## The 3-2-1 idea
 
-Keep **three** copies of anything you can't replace, on **two** different kinds of storage, with **one** copy away from home. For most households that's:
+Keep **three** copies of anything you can't replace, on **two** kinds of storage, with **one** copy away from home. For most households that's:
 
 1. The original, on the phone or computer.
 2. A cloud copy: iCloud Photos, Google Photos, OneDrive, or Dropbox.
@@ -22,7 +22,7 @@ Keep **three** copies of anything you can't replace, on **two** different kinds 
 
 ## Test a restore
 
-Until you've restored from a backup, you don't know it works. Once a year, pick a few photos and a document from a year ago and restore them to a different device. If it works, write down the date. If it doesn't, you've found the problem on a calm day.
+Until you've restored from a backup, you don't know it works. Once a year, restore a few photos and a document from a year ago to a different device. If it works, write down the date. If it doesn't, you've found the problem on a calm day.
 
 Ready, Secure, Go has the detail: [Back up what you can't lose, the 3-2-1 way](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/data-and-backups/data-3-2-1-backup.md) and [Prove your backup works by restoring from it](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/data-and-backups/data-test-a-restore.md).
 

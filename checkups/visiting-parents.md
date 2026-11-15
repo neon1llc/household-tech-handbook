@@ -3,7 +3,7 @@ title: Visiting parents checklist
 description: "About two hours, in person, to make a parent's devices simpler, safer, and easier for you to help with from far away."
 ---
 
-Go at their pace, explain each change, and ask before you change anything. The goal is a setup they're comfortable running themselves.
+Go at their pace, explain each change, and ask before you change anything.
 
 ## Their phone
 

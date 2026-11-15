@@ -3,14 +3,14 @@ title: "9. Money and identity"
 description: "Credit freezes for every adult and child, bank alerts, card controls, and a yearly look at what's out there about you."
 ---
 
-Identity thieves often work from information that has already leaked in a breach. You can't take it back, but you can make it much harder to use.
+Identity thieves often use information that already leaked in a breach. You can't take it back, but you can make it much harder to use.
 
 ## Freeze everyone's credit
 
 A credit freeze stops anyone, including you, from opening new credit in your name until you lift it. It's free in the United States, doesn't affect your credit score, and takes about fifteen minutes per person.
 
 - Freeze with all three bureaus: **Equifax**, **Experian**, and **TransUnion**, through their websites or apps.
-- **Children too.** A child's clean record is valuable to thieves, and the theft can go unnoticed for years. Parents can request a free freeze for a child under 16, using each bureau's process for minors.
+- **Children too.** A child's clean record is valuable to thieves, and theft can go unnoticed for years. Parents can request a free freeze for a child under 16 through each bureau's process for minors.
 - Save each bureau's login or PIN in the password manager. When you need credit, lift the freeze for a few days, then let it return.
 
 ## Bank and card controls
