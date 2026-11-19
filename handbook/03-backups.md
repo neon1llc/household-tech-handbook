@@ -11,7 +11,7 @@ Keep **three** copies of anything you can't replace, on **two** kinds of storage
 
 1. The original, on the phone or computer.
 2. A cloud copy: iCloud Photos, Google Photos, OneDrive, or Dropbox.
-3. A second copy you control: an external drive at home, or a second cloud service.
+3. A second copy you control: an external drive at home, or a second cloud service. Unplug the drive when a backup isn't running, or use backups that keep older versions, so ransomware or a mistake can't wipe every copy at once.
 
 ## What to back up
 
@@ -35,4 +35,5 @@ Ready, Secure, Go has the detail: [Back up what you can't lose, the 3-2-1 way](h
 
 ## Sources
 
+- [Ransomware Guide](https://www.cisa.gov/stopransomware/ransomware-guide), from CISA: keep offline, encrypted backups, because many ransomware variants find and encrypt or delete backups they can reach.
 - [Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go), from neon1: the practice cards and playbooks linked on this page.

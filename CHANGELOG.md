@@ -2,6 +2,13 @@
 
 Household Tech Handbook releases use `v0.MINOR.PATCH` until the first complete release, v1.0.0, following neon1's [versioning standard](https://neon1.tech/knowledge/standards/versioning/). Each version below has an annotated tag on the commit it names; the release workflow adds missing tags and never moves one.
 
+## v0.1.5 - 2026-11-19
+
+### Changed
+- Router chapter: WPA2 is acceptable where WPA3 isn't available, and it mentions changing the admin username.
+- Backups: keep one copy offline or versioned.
+- Emergencies chapter: Google's inactive-account path is corrected, Instagram is listed as having no legacy contact, and the menu paths are marked as likely to change.
+
 ## v0.1.4 - 2026-11-15
 
 ### Changed
