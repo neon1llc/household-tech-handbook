@@ -9,12 +9,12 @@ Every device in the house reaches the internet through the router. It's the fron
 
 1. Find the router. If your internet provider supplied it, it may be a combined modem and router.
 2. Look for the admin address and login on its label or in the provider's app.
-3. Sign in and **change the admin password** to a long, unique one stored in your password manager. If the label's password is still the admin password, anyone who's visited can change your settings.
+3. Sign in and **change the admin password** (and the admin username, if it lets you) to a long, unique one stored in your password manager. If the label's password is still the admin password, anyone who's visited can change your settings.
 
 ## The settings that matter
 
 - **Firmware updates.** Turn on automatic updates if offered. If the router hasn't had an update in years, it's time to replace it.
-- **Wi-Fi security.** Choose WPA3, or WPA2/WPA3 mixed mode if older devices need it. Never "open" or WEP.
+- **Wi-Fi security.** Choose WPA3, or WPA2/WPA3 mixed mode if older devices need it. WPA2 is acceptable if that's the best the router offers. Never "open", WEP, or the original WPA.
 - **The Wi-Fi password.** Long and unique. A phrase of four or five unrelated words works well.
 - **Remote management** off, unless you use the provider's app on purpose.
 - **WPS** (the push-button pairing) off if your devices don't need it.

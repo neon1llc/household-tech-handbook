@@ -10,11 +10,11 @@ If you're the household tech lead, you're also its single point of failure. This
 Each major platform lets you name someone who can access your account if you die or can't use it:
 
 - **Apple:** Legacy Contact, and a separate Account Recovery Contact, in Sign-In & Security settings.
-- **Google:** Inactive Account Manager, in the account's Data & privacy settings.
-- **Facebook and Instagram:** a legacy contact or memorialization settings.
+- **Google:** Inactive Account Manager, at myaccount.google.com/inactive.
+- **Facebook:** a legacy contact. **Instagram:** memorialization only. Instagram's Help Center describes no legacy contact.
 - **Password managers:** 1Password's emergency kit, Bitwarden's emergency access, and similar features.
 
-Set these up for every adult, and help parents set theirs.
+Set these up for every adult, and help parents set theirs. Menu names change. If one doesn't match, search the provider's help for "legacy contact" or "inactive account".
 
 ## The emergency card
 
