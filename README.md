@@ -2,7 +2,7 @@
 
 **A handbook for the person who looks after a family's devices and accounts.** Passwords, backups, the router, kids' first phones, helping aging parents, and what to do when something breaks.
 
-From [neon1](https://neon1.tech). *1 is glad to be of service.*
+From [neon1](https://neon1.tech).
 
 **Status:** stable. Accuracy and source updates only, no new modules for now.
 
