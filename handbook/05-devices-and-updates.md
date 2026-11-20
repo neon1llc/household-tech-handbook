@@ -2,36 +2,30 @@
 title: "5. Devices and updates"
 description: "Automatic updates, screen locks, encryption, and find-my-device on every phone, tablet, and computer in the house."
 ---
-
-Many attacks use security holes that already have a fix, and updates apply it. The other three basics keep a lost device from exposing your accounts.
+Many attacks use holes that already have a fix, and updates apply it. The other basics keep a lost device from exposing your accounts.
 
 ## The four basics, on every device
 
-1. **Automatic updates** for the operating system and apps. On phones, look in Settings under General or System. On computers, check Windows Update or macOS Software Update, and the browser's settings.
+1. **Automatic updates** for the system, apps, and browser. On phones, look in Settings under General or System. On computers, use Windows Update or macOS Software Update.
 2. **A screen lock**: a six-digit PIN or longer, with Face ID, Touch ID, or a fingerprint for convenience.
-3. **Encryption.** Modern iPhones and Android phones encrypt automatically once there's a screen lock. On computers, turn on FileVault (Mac) or BitLocker or Device Encryption (Windows), and save the recovery key in the password manager.
+3. **Encryption.** Phones encrypt automatically once there's a screen lock. On computers, turn on FileVault (Mac) or BitLocker or Device Encryption (Windows), and save the recovery key in the password manager.
 4. **Find my device**, with remote lock and erase: Find My on Apple devices, Find My Device on Android and Windows.
 
-## Restarting matters
+## Restarts and antivirus
 
-Many updates finish only after a restart. A device not restarted in weeks is probably behind.
-
-## Antivirus
-
-Windows and macOS include built-in protection (Microsoft Defender and XProtect). Keep it on and updated. Paid suites are optional, and preinstalled ones with nagging pop-ups deserve suspicion.
+Many updates finish only after a restart, so a device not restarted in weeks is probably behind. Windows and macOS include antivirus (Microsoft Defender and XProtect). Keep it on. Paid suites are optional, and preinstalled ones with nagging pop-ups deserve suspicion.
 
 ## Old devices
 
-A device that no longer gets security updates should come off the internet or out of the house. [Chapter 10](10-buying-and-retiring.md) covers how to check and retire it.
+A device with no more security updates should come off the internet or out of the house ([chapter 10](10-buying-and-retiring.md)).
 
-Ready, Secure, Go has the detail: [Turn on automatic updates, everywhere](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/devices-and-updates/dev-auto-updates.md), [Lock your screens and encrypt your devices](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/devices-and-updates/dev-screen-lock-and-encryption.md), and [Set up find-my-device and remote wipe before you need it](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/devices-and-updates/dev-find-and-wipe.md).
+More: [Turn on automatic updates, everywhere](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/devices-and-updates/dev-auto-updates.md), [Lock your screens and encrypt your devices](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/devices-and-updates/dev-screen-lock-and-encryption.md), and [Set up find-my-device](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/devices-and-updates/dev-find-and-wipe.md).
 
 ## Do this
 
-- [ ] Automatic updates on for every device and browser.
-- [ ] Screen lock and encryption on every phone, tablet, and computer.
+- [ ] Automatic updates, screen lock, and encryption on every device.
 - [ ] Find my device on, and every adult knows how to use it.
-- [ ] Encryption recovery keys saved in the password manager.
+- [ ] Recovery keys saved in the password manager.
 
 ## Sources
 

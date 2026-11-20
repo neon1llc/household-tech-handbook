@@ -2,27 +2,23 @@
 title: Visiting parents checklist
 description: "About two hours, in person, to make a parent's devices simpler, safer, and easier for you to help with from far away."
 ---
-
-Go at their pace, explain each change, and ask first.
+Go at their pace, explain each change, and ask first. The reasons are in [chapter 7](../handbook/07-aging-parents.md).
 
 ## Their phone
 
-- [ ] All updates installed, and automatic updates on.
+- [ ] Updates installed and automatic updates on.
 - [ ] Text size, bold text, and accessibility features they like.
 - [ ] Your number in favorites, with doctors and family saved as contacts.
 - [ ] Unknown callers silenced or screened.
 - [ ] Find My or Find My Device on, and location shared with you if they agree.
 - [ ] Backups and photo sync on, with enough storage.
 
-## Their accounts
+## Their accounts and money
 
 - [ ] Two-step sign-in on email, using the method they find easiest.
 - [ ] Recovery phone and email current, and backup codes saved somewhere safe.
 - [ ] A password manager or the phone's built-in one, set up together for their most-used accounts.
 - [ ] Legacy and recovery contacts set ([chapter 11](../handbook/11-emergencies-and-legacy.md)).
-
-## Their money
-
 - [ ] Bank alerts for large withdrawals, and a trusted contact named if the bank offers it.
 - [ ] Credit freezes at all three bureaus.
 

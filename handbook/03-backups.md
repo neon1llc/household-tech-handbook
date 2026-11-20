@@ -2,36 +2,34 @@
 title: "3. Backups"
 description: "Protect the photos, documents, and phones your family can't replace, with backups that run on their own and a restore you've tested."
 ---
-
-A dropped phone or dead laptop can take years of photos with it if they exist nowhere else.
+A dead laptop can take years of photos with it if they exist nowhere else.
 
 ## The 3-2-1 idea
 
-Keep **three** copies of anything you can't replace, on **two** kinds of storage, with **one** copy away from home. For most households that's:
+Keep **three** copies of anything you can't replace, on **two** kinds of storage, with **one** away from home:
 
 1. The original, on the phone or computer.
 2. A cloud copy: iCloud Photos, Google Photos, OneDrive, or Dropbox.
-3. A second copy you control: an external drive at home, or a second cloud service. Unplug the drive between backups, or use backups that keep older versions, so ransomware or a mistake can't wipe every copy at once.
+3. A second copy you control: an external drive at home, or a second cloud service. Unplug the drive between backups, or keep older versions, so ransomware or a mistake can't wipe every copy.
 
 ## What to back up
 
-- **Phones.** Turn on iCloud Backup (iPhone) or Google One backup (Android), plus photo sync. Backups stop when cloud storage is full, so check it.
-- **Computers.** Time Machine on a Mac, or File History or OneDrive on Windows, to an external drive. Add a cloud backup service for an off-site copy.
-- **Shared family photos.** A shared album or family plan keeps them in one place, not spread across six phones.
-- **Important documents.** Scans of IDs, insurance, property records, and medical information, in an encrypted location such as your password manager or an encrypted cloud folder.
+- **Phones.** iCloud Backup (iPhone) or Google One backup (Android), plus photo sync. Backups stop when cloud storage is full.
+- **Computers.** Time Machine (Mac) or File History or OneDrive (Windows) to an external drive, plus a cloud backup service.
+- **Family photos.** One shared album, not six phones.
+- **Documents.** Scans of IDs, insurance, property records, and medical information, in your password manager or an encrypted cloud folder.
 
 ## Test a restore
 
-A backup you haven't restored from is a guess. Once a year, restore a few photos and a document from a year ago to a different device, and write down the date. If it fails, you found the problem on a calm day.
+A backup you haven't restored from is a guess. Once a year, restore a few photos and a document to a different device, and write down the date.
 
-Ready, Secure, Go has the detail: [Back up what you can't lose, the 3-2-1 way](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/data-and-backups/data-3-2-1-backup.md) and [Prove your backup works by restoring from it](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/data-and-backups/data-test-a-restore.md).
+More: [Back up what you can't lose, the 3-2-1 way](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/data-and-backups/data-3-2-1-backup.md) and [Prove your backup works](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/data-and-backups/data-test-a-restore.md).
 
 ## Do this
 
-- [ ] Phone backups and photo sync on for everyone, with enough storage.
-- [ ] Computer backups running to an external drive and a cloud service.
-- [ ] Important documents scanned and stored encrypted.
-- [ ] A restore tested, with the date written on the household tech sheet.
+- [ ] Phone and computer backups running, with enough storage.
+- [ ] Documents scanned and stored encrypted.
+- [ ] A restore tested, with the date on the household tech sheet.
 
 ## Sources
 

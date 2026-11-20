@@ -5,7 +5,7 @@ Household Tech Handbook releases use `v0.MINOR.PATCH` until the first complete r
 ## v0.1.7 - 2026-11-20
 
 ### Changed
-- Tighter wording across the README, chapters, checkups, and templates. Repeated source lines are shortened, and the unneeded Ready, Secure, Go source line is removed from chapters.
+- Tighter wording across the README, chapters, checkups, and templates. Repeated source lines are shortened, and the unneeded Ready, Secure, Go source line is removed from chapters. Chapters lose about a fifth of their words by merging repeated steps and shortening the do-this lists. The checkups merge into fewer sections.
 
 ## v0.1.6 - 2026-11-19
 
