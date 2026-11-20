@@ -1,12 +1,12 @@
 ---
 title: Checkups
-description: "Short checklists for the recurring household tech work: a yearly checkup, setting up a new device, and visiting parents."
+description: "Short checklists for recurring household tech work."
 ---
 
 | Checkup | When | Time |
 |---|---|---|
-| [Yearly checkup](yearly-checkup.md) | Once a year, at the same time each year | An afternoon |
-| [New device](new-device.md) | Every time a phone, computer, or tablet arrives | 30 minutes |
-| [Visiting parents](visiting-parents.md) | The first visit, then once a year | About 2 hours |
+| [Yearly checkup](yearly-checkup.md) | Once a year, same date | An afternoon |
+| [New device](new-device.md) | Each new phone, computer, or tablet | 30 minutes |
+| [Visiting parents](visiting-parents.md) | First visit, then yearly | About 2 hours |
 
-Put the yearly checkup on the family calendar on a date you'll remember, such as New Year's weekend.
+Put the yearly checkup on the family calendar, such as New Year's weekend.

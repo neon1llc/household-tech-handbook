@@ -7,7 +7,7 @@ description: "Check how long a device will get updates before you buy it, and wi
 The spec nobody prints on the box is **how many years of security updates** the device gets.
 
 - **Phones:** Google gives Pixel 8 and later seven years of OS and security updates from when each model went on sale. Samsung offers seven years on recent flagship Galaxy phones. Apple doesn't publish a fixed period. Cheaper Android phones may get far fewer, so check the maker's support page.
-- **Computers:** check that the model can run the current Windows or macOS, and how long that version is supported.
+- **Computers:** check the model can run the current Windows or macOS, and how long that version is supported.
 - **Smart devices and routers:** check the maker publishes an update period ([chapter 8](08-smart-home.md)).
 - **Secondhand:** confirm the previous owner removed it from their account (Activation Lock on Apple devices, Factory Reset Protection on Android), or you can't use it.
 
@@ -15,18 +15,16 @@ The spec nobody prints on the box is **how many years of security updates** the 
 
 Before you sell, donate, trade in, or recycle anything:
 
-1. **Back it up** and confirm the backup has what you need ([chapter 3](03-backups.md)).
+1. **Back it up** ([chapter 3](03-backups.md)).
 2. **Sign out** of the Apple, Google, or Microsoft account. On Apple devices, turning off Find My removes Activation Lock.
 3. **Unpair** watches and accessories.
 4. **Factory reset.** On modern encrypted devices, a reset makes the old data unrecoverable.
-5. **Remove it** from your account's device list online and from the [device inventory](../templates/device-inventory.csv).
+5. **Remove it** from your account's device list and the [device inventory](../templates/device-inventory.csv).
 6. **Remove SIM and memory cards.**
 
-For old unencrypted hard drives, use the operating system's secure erase or destroy the drive.
+Old unencrypted hard drives need the operating system's secure erase, or destruction. Use trade-in programs or certified e-waste recyclers, not household trash.
 
-Use trade-in programs or certified e-waste recyclers, not household trash.
-
-More: [Retire devices that can't get updates, and wipe them first](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/devices-and-updates/dev-retire-old-devices.md).
+More: [retire devices that can't get updates](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/devices-and-updates/dev-retire-old-devices.md).
 
 ## Do this
 
@@ -37,4 +35,4 @@ More: [Retire devices that can't get updates, and wipe them first](https://githu
 ## Sources
 
 - [Pixel update schedule](https://support.google.com/pixelphone/answer/4457705), from Google: seven years of OS and security updates for Pixel 8 and later.
-- [Before you buy](https://neon1.tech/knowledge/guides/before-you-buy/), in neon1's Knowledge Center: what to check before buying a device or service.
+- [Before you buy](https://neon1.tech/knowledge/guides/before-you-buy/), in neon1's Knowledge Center.

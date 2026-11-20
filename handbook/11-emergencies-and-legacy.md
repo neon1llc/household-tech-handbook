@@ -17,17 +17,7 @@ Set these up for every adult, and help parents set theirs. If a menu name doesn'
 
 ## The emergency card
 
-Fill in the [emergency card](../templates/emergency-card.md): where the household tech sheet is, how to reach the password manager, who to call, and key account providers. Keep it with your will or other important papers, and tell a second adult.
-
-## What the family will need
-
-- Email, which unlocks most other accounts.
-- The password manager, or its emergency access.
-- Phone passcodes. A locked phone with two-step sign-in can block everything else.
-- The photos, documents, and which cloud service holds them.
-- Subscriptions and automatic payments to cancel or keep.
-
-Talk it through with a trusted family member, and again whenever something big changes.
+Fill in the [emergency card](../templates/emergency-card.md). It points the family to email, the password manager, phone passcodes, the photos, and the subscriptions to cancel or keep. Store it with your will or other important papers, and tell a second adult. Talk it through again whenever something big changes.
 
 ## Do this
 
