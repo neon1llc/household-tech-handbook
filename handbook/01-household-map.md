@@ -3,27 +3,27 @@ title: "1. Map your household"
 description: "Write down who's in the household, what devices and accounts you have, and who controls each, in one evening."
 ---
 
-You can't look after what you can't see. Households pile up old tablets in drawers, a smart TV signed in to three streaming services, a router nobody has logged in to since it was installed, and an email address from 2009 that still receives the bank's statements.
+Most households have old tablets in drawers, a smart TV signed in to three streaming services, a router nobody has opened since it was installed, and an email address from 2009 that still gets the bank's statements.
 
 ## What to write down
 
-Use the [household tech sheet](../templates/household-tech-sheet.md). It has room for:
+The [household tech sheet](../templates/household-tech-sheet.md) has room for:
 
-1. **People.** Everyone in the household, plus anyone you help outside it, such as parents.
-2. **The internet.** Your provider, the account holder, the router's make and model, and where its admin details are kept.
-3. **Devices.** Phones, computers, tablets, smart TVs, game consoles, cameras, speakers, and anything else on the Wi-Fi. The [device inventory](../templates/device-inventory.csv) is a spreadsheet version.
-4. **Key accounts.** Each person's main email, the family's Apple or Google family group, the password manager, banking, and the accounts that pay bills.
-5. **Who's the admin.** For each account and device: who can change settings, reset passwords, and add or remove people.
+1. **People.** Everyone in the household, plus anyone you help, such as parents.
+2. **The internet.** Provider, account holder, router make and model, and where its admin login is kept.
+3. **Devices.** Phones, computers, tablets, TVs, consoles, cameras, speakers, and anything else on the Wi-Fi. The [device inventory](../templates/device-inventory.csv) is a spreadsheet version.
+4. **Key accounts.** Each person's main email, the Apple or Google family group, the password manager, banking, and bill-paying accounts.
+5. **Who's the admin.** For each account and device, who can change settings, reset passwords, and add or remove people.
 
 ## What to look for
 
-- **Accounts tied to one person** that the family depends on. If the streaming, photos, or utilities live in one person's email, only that person can fix them.
-- **Devices nobody claims.** Old phones and tablets can be wiped and retired ([chapter 10](10-buying-and-retiring.md)).
-- **Recovery details that point nowhere.** A recovery phone number someone gave up years ago, or a recovery email at a former employer.
+- **Shared accounts tied to one person.** If streaming, photos, or utilities live in one person's email, only that person can fix them.
+- **Devices nobody claims.** Wipe and retire them ([chapter 10](10-buying-and-retiring.md)).
+- **Recovery details that point nowhere**, such as a phone number given up years ago or an email at a former employer.
 
 ## Where to keep it
 
-Best is a secure note in your password manager, shared with one other adult. A printed copy in a safe place also works. Keep no passwords on the sheet. It records *where* things are, not the secrets.
+Keep it as a secure note in your password manager, shared with one other adult, or print it and store it safely. The sheet records where things are. It holds no passwords.
 
 ## Do this
 
@@ -33,4 +33,4 @@ Best is a secure note in your password manager, shared with one other adult. A p
 
 ## Sources
 
-- [Cybersecurity Awareness Month](https://www.cisa.gov/cybersecurity-awareness-month), from CISA: the four core steps everyone should take, which are recognizing and reporting phishing, strong passwords, multifactor authentication with a password manager, and updates.
+- [Cybersecurity Awareness Month](https://www.cisa.gov/cybersecurity-awareness-month), from CISA: report phishing, use strong passwords, turn on multifactor authentication, and update software.

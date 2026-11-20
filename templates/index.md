@@ -10,4 +10,4 @@ description: "Fill-in sheets for the household: a tech sheet, a device inventory
 | [emergency-card.md](emergency-card.md) | What the family needs if you're not there | [11](../handbook/11-emergencies-and-legacy.md) |
 | [account-recovery-sheet.md](account-recovery-sheet.md) | Each person's recovery details, checked yearly | [2](../handbook/02-accounts-and-passwords.md) |
 
-None of these should hold passwords. They record where things are and who controls them. Keep them as secure notes in your password manager, or printed in a safe place.
+None of these hold passwords. Keep them as secure notes in your password manager, or print them and store them safely.

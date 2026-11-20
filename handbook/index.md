@@ -20,7 +20,3 @@ Read in order the first time. Each chapter ends with a **do this** list, so you 
 | 11 | [Emergencies and digital legacy](11-emergencies-and-legacy.md) | A family locked out when it matters most |
 | 12 | [When something goes wrong](12-when-something-goes-wrong.md) | Panic |
 
-> [!TIP]
-> **Set it up once**
->
-> Each chapter favors setups that keep working without you.

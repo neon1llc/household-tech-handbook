@@ -3,7 +3,7 @@ title: "6. Kids' devices"
 description: "A plan for children's tablets and first phones: family accounts, age-appropriate controls, and the conversations that matter more than the settings."
 ---
 
-Settings help, but the conversation matters as much. A child who knows they can tell you about something weird online without losing their phone is more likely to tell you early.
+The conversation matters as much as the settings. A child who knows they can tell you about something strange online without losing their phone will tell you sooner.
 
 ## Set up through a family account
 
@@ -27,12 +27,12 @@ These give you purchase approval, age ratings, screen time limits, and location 
 
 ## The conversations
 
-- **Nobody online who asks for secrets or photos is a friend.** If anyone does, tell a parent, and you won't be in trouble.
+- **Anyone online who asks for secrets or photos is not a friend.** Tell a parent, and you won't be in trouble.
 - **Never share sign-in codes or passwords**, even with friends. Account theft is common in gaming.
-- **Money scams aimed at kids**: free in-game currency, "skins," and gift cards.
-- **Sextortion**: if anyone threatens to share pictures, block them, keep the messages, and tell a parent before doing anything else. Paying rarely stops it. Take It Down (takeitdown.ncmec.org) can help remove images of minors.
+- **Money scams aimed at kids:** free in-game currency, "skins," and gift cards.
+- **Sextortion:** if anyone threatens to share pictures, block them, keep the messages, and tell a parent before doing anything else. Paying rarely stops it. [Take It Down](https://takeitdown.ncmec.org/) can help remove images of minors.
 
-Charge phones outside bedrooms overnight, at least for younger kids. It helps sleep more than any app.
+Charge phones outside bedrooms overnight, at least for younger kids.
 
 Ready, Secure, Go has the detail: [Have the family tech talk, and keep having it](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/people-and-culture/ppl-family-tech-talk.md), and a playbook for when [a kid's in trouble online](https://github.com/neon1llc/ready-secure-go/blob/main/content/playbooks/kid-in-trouble-online.md).
 
@@ -48,4 +48,3 @@ Ready, Secure, Go has the detail: [Have the family tech talk, and keep having it
 - [Help kids protect their devices](https://consumer.ftc.gov/consumer-alerts/2025/11/help-kids-protect-their-devices), from the FTC: device basics to teach children.
 - [Sextortion](https://www.missingkids.org/sextortion), from the National Center for Missing & Exploited Children: get help before paying, keep the messages, block, and report.
 - [Take It Down](https://takeitdown.ncmec.org/), from NCMEC: help removing nude or explicit images of minors from participating platforms.
-- [Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go), from neon1: the practice cards and playbooks linked on this page.

@@ -3,7 +3,7 @@ title: "11. Emergencies and digital legacy"
 description: "Make sure the family can get into what matters if you're ill, away, or gone: legacy contacts, an emergency card, and a plan for the password manager."
 ---
 
-If you're the household tech lead, you're also its single point of failure. This chapter lets someone else step in.
+As the household tech lead, you're also its single point of failure. Make it possible for someone else to step in.
 
 ## Legacy and recovery contacts
 
@@ -14,11 +14,11 @@ Each major platform lets you name someone who can access your account if you die
 - **Facebook:** a legacy contact. **Instagram:** memorialization only. Instagram's Help Center describes no legacy contact.
 - **Password managers:** 1Password's emergency kit, Bitwarden's emergency access, and similar features.
 
-Set these up for every adult, and help parents set theirs. Menu names change. If one doesn't match, search the provider's help for "legacy contact" or "inactive account".
+Set these up for every adult, and help parents set theirs. Menu names change, so if one doesn't match, search the provider's help for "legacy contact" or "inactive account".
 
 ## The emergency card
 
-Fill in the [emergency card](../templates/emergency-card.md): where the household tech sheet is, how to get into the password manager in an emergency, who to call for help, and key account providers. Keep it with your will or other important papers, and tell a second adult where it is.
+Fill in the [emergency card](../templates/emergency-card.md): where the household tech sheet is, how to reach the password manager in an emergency, who to call, and key account providers. Keep it with your will or other important papers, and tell a second adult where it is.
 
 ## What the family will need
 
@@ -30,7 +30,7 @@ Fill in the [emergency card](../templates/emergency-card.md): where the househol
 
 ## Talk about it
 
-Talk it through with your partner or a trusted family member, and again whenever something big changes. It's short and saves weeks of trouble.
+Talk it through with your partner or a trusted family member, and again whenever something big changes.
 
 ## Do this
 

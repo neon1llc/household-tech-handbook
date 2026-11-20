@@ -3,7 +3,7 @@ title: Account recovery sheet
 description: "Each person's recovery details for their most important accounts, checked once a year so nobody gets locked out."
 ---
 
-Fill one in for each person. Check it during the [yearly checkup](../checkups/yearly-checkup.md). No passwords or codes go on this sheet. It records whether recovery works.
+One sheet per person, checked during the [yearly checkup](../checkups/yearly-checkup.md). It records whether recovery works. No passwords or codes go on it.
 
 **Person:** ______________________ **Checked on:** ____________
 

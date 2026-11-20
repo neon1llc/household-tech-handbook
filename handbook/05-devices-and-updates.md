@@ -3,7 +3,7 @@ title: "5. Devices and updates"
 description: "Automatic updates, screen locks, encryption, and find-my-device on every phone, tablet, and computer in the house."
 ---
 
-Many attacks use security holes that already have a fix, and updates apply it. The other three basics keep a lost device from becoming a lost identity.
+Many attacks use security holes that already have a fix, and updates apply it. The other three basics keep a lost device from exposing your accounts.
 
 ## The four basics, on every device
 
@@ -14,15 +14,15 @@ Many attacks use security holes that already have a fix, and updates apply it. T
 
 ## Restarting matters
 
-Many updates finish only after a restart. A phone or laptop not restarted in weeks is probably behind.
+Many updates finish only after a restart. A device not restarted in weeks is probably behind.
 
 ## Antivirus
 
-Windows and macOS include good built-in protection (Microsoft Defender and XProtect). Keep it on and updated. Paid security suites are optional. Be wary of any that came preinstalled with nagging pop-ups.
+Windows and macOS include built-in protection (Microsoft Defender and XProtect). Keep it on and updated. Paid suites are optional, and preinstalled ones with nagging pop-ups deserve suspicion.
 
 ## Old devices
 
-A device that no longer gets security updates should come off the internet or out of the house. [Chapter 10](10-buying-and-retiring.md) covers how to check and retire it safely.
+A device that no longer gets security updates should come off the internet or out of the house. [Chapter 10](10-buying-and-retiring.md) covers how to check and retire it.
 
 Ready, Secure, Go has the detail: [Turn on automatic updates, everywhere](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/devices-and-updates/dev-auto-updates.md), [Lock your screens and encrypt your devices](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/devices-and-updates/dev-screen-lock-and-encryption.md), and [Set up find-my-device and remote wipe before you need it](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/devices-and-updates/dev-find-and-wipe.md).
 
@@ -35,5 +35,4 @@ Ready, Secure, Go has the detail: [Turn on automatic updates, everywhere](https:
 
 ## Sources
 
-- [Cybersecurity Awareness Month](https://www.cisa.gov/cybersecurity-awareness-month), from CISA: the four core steps everyone should take, which are recognizing and reporting phishing, strong passwords, multifactor authentication with a password manager, and updates.
-- [Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go), from neon1: the practice cards and playbooks linked on this page.
+- [Cybersecurity Awareness Month](https://www.cisa.gov/cybersecurity-awareness-month), from CISA: report phishing, use strong passwords, turn on multifactor authentication, and update software.

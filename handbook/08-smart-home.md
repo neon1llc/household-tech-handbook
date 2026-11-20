@@ -7,8 +7,8 @@ Every smart device is a small computer on your network that rarely gets looked a
 
 ## Before you buy
 
-- Choose brands that publish how long they'll provide security updates, and support two-step sign-in on the account.
-- Look for support for Matter, a standard that makes devices work across brands. The U.S. Cyber Trust Mark label will help once labeled products reach stores, which the FCC was still working toward in late 2026.
+- Choose brands that publish how long they'll provide security updates and support two-step sign-in on the account.
+- Look for Matter, a standard that works across brands. The U.S. Cyber Trust Mark label will help once labeled products reach stores, which the FCC was still working toward in late 2026.
 - Skip devices that need an account with an unknown company or an app with poor security reviews.
 
 ## Setting up
@@ -20,14 +20,14 @@ Every smart device is a small computer on your network that rarely gets looked a
 
 ## Cameras and doorbells
 
-- Point indoor cameras away from bedrooms and bathrooms, and turn them off or cover them when you're home if you prefer.
+- Point indoor cameras away from bedrooms and bathrooms, and turn them off or cover them when you're home.
 - Use end-to-end encryption if the camera offers it.
 - Check who has access to the feeds in the app, and remove old phones and people.
-- Avoid recording into neighbors' homes, and check local laws on recording audio.
+- Keep cameras off neighbors' homes, and check local laws on recording audio.
 
 ## Voice assistants and smart TVs
 
-Review the privacy settings: voice recording history, whether recordings are reviewed by people, and TV viewing data sharing (often called ACR or "viewing information"). Turn off what you don't want.
+Review the privacy settings for voice recording history, human review of recordings, and TV viewing data sharing (often called ACR or "viewing information"). Turn off what you don't want.
 
 Ready, Secure, Go has the detail: [Secure your cameras and smart devices](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/devices-and-updates/dev-iot-and-cameras.md).
 
@@ -42,4 +42,3 @@ Ready, Secure, Go has the detail: [Secure your cameras and smart devices](https:
 
 - [Securing your internet-connected devices at home](https://consumer.ftc.gov/articles/securing-your-internet-connected-devices-home), from the FTC: smart device setup and updates.
 - [How to secure your home security cameras](https://consumer.ftc.gov/articles/how-secure-your-home-security-cameras), from the FTC: camera accounts, passwords, and updates.
-- [Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go), from neon1: the practice cards and playbooks linked on this page.
