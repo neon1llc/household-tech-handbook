@@ -52,4 +52,4 @@ description: "One page that maps a household's people, internet, devices, key ac
 
 ## Notes and history
 
-Problems, fixes, and changes, with dates.
+Problems and fixes, with dates.

@@ -1,44 +1,36 @@
 ---
 title: "4. The router and Wi-Fi"
-description: "Take control of the household router: a new admin password, current firmware, strong Wi-Fi security, and a separate network for guests and gadgets."
+description: "A new admin password, current firmware, strong Wi-Fi security, and a separate network for guests and gadgets."
 ---
+Every device reaches the internet through the router, and in many homes nobody has signed in to it since installation.
 
-Every device in the house reaches the internet through the router. It's the front door, and in many homes nobody has signed in to it since it was installed.
+## Sign in
 
-## Find it and sign in
+1. Find the router. A provider's unit may combine modem and router.
+2. Find the admin address and login on its label or in the provider's app.
+3. Change the **admin password** (and the username, if allowed) to a long, unique one in your password manager. Anyone who has seen the label can use its password.
 
-1. Find the router. If your internet provider supplied it, it may be a combined modem and router.
-2. Look for the admin address and login on its label or in the provider's app.
-3. Sign in and **change the admin password** (and the admin username, if it lets you) to a long, unique one stored in your password manager. If the label's password is still the admin password, anyone who's visited can change your settings.
+## Settings that matter
 
-## The settings that matter
+- **Firmware updates** automatic, if offered. Replace a router with no update in years.
+- **Wi-Fi security:** WPA3, or WPA2/WPA3 mixed mode if older devices need it. WPA2 is acceptable if that's the best available. Never "open", WEP, or the original WPA.
+- **Wi-Fi password:** long and unique, such as four or five unrelated words.
+- **Remote management, WPS** (push-button pairing), and **UPnP** off, unless you use the provider's app or a device such as a game console needs one.
 
-- **Firmware updates.** Turn on automatic updates if offered. If the router hasn't had an update in years, it's time to replace it.
-- **Wi-Fi security.** Choose WPA3, or WPA2/WPA3 mixed mode if older devices need it. WPA2 is acceptable if that's the best the router offers. Never "open", WEP, or the original WPA.
-- **The Wi-Fi password.** Long and unique. A phrase of four or five unrelated words works well.
-- **Remote management** off, unless you use the provider's app on purpose.
-- **WPS** (the push-button pairing) off if your devices don't need it.
-- **UPnP** off if nothing in the house needs it, such as some game consoles.
+## A guest network
 
-## A guest network for guests and gadgets
+Put visitors on a second network, along with smart TVs, speakers, plugs, and cameras, so a hacked gadget can't reach your laptops and phones.
 
-Most routers can run a second network. Put visitors on it, along with smart TVs, speakers, plugs, and cameras. If one of those gadgets is hacked, it can't reach your laptops and phones.
+For weak Wi-Fi upstairs, a mesh system usually beats a range extender.
 
-## Mesh systems and coverage
-
-If the Wi-Fi is weak upstairs, a mesh system (several units working together) usually beats a range extender. Mesh systems from major brands also tend to update themselves.
-
-Ready, Secure, Go has the detail: [Set up your router like you mean it](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/networks-and-wifi/net-router-basics.md) and [Give guests and gadgets their own Wi-Fi](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/networks-and-wifi/net-guest-network.md).
+More: [router basics](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/networks-and-wifi/net-router-basics.md) and [a guest network](https://github.com/neon1llc/ready-secure-go/blob/main/content/practices/networks-and-wifi/net-guest-network.md).
 
 ## Do this
 
-- [ ] Router admin password changed and saved in the password manager.
-- [ ] Firmware current, with automatic updates on.
-- [ ] WPA3 or WPA2/WPA3, with a strong Wi-Fi password.
-- [ ] A guest network for visitors and smart devices.
-- [ ] Router details recorded on the household tech sheet.
+- [ ] Admin password changed and saved.
+- [ ] Firmware current, WPA3 or WPA2/WPA3, strong Wi-Fi password.
+- [ ] Guest network for visitors and smart devices.
 
 ## Sources
 
-- [How to secure your home Wi-Fi network](https://consumer.ftc.gov/articles/how-secure-your-home-wi-fi-network), from the FTC: router passwords, encryption, and updates.
-- [Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go), from neon1: the practice cards and playbooks linked on this page.
+- [How to secure your home Wi-Fi network](https://consumer.ftc.gov/articles/how-secure-your-home-wi-fi-network), from the FTC.

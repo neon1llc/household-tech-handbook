@@ -8,9 +8,9 @@
 
 ## How to write here
 
-- **Write for the family's tech lead**, who's capable but busy.
+- **Write for the family's tech lead**, who is capable but busy.
 - **Give the reason before the steps.** People skip steps they don't understand.
-- **Name more than one tool,** including free options and ones built into phones.
+- **Name more than one tool,** including options built into phones.
 - **Never ask readers to write down passwords** in a template that could be lost or shared.
 - Use the serial comma.
 

@@ -1,54 +1,37 @@
 ---
 title: "7. Helping aging parents"
-description: "Make a parent's devices simpler and safer, set up remote help, and protect them from scams, without taking away their independence."
+description: "Simplify a parent's devices, set up remote help, and protect them from scams without taking away their independence."
 ---
+Aim for a setup your parent can manage alone, with you as a backup they trust. Do it in person the first time. The [visiting parents checklist](../checkups/visiting-parents.md) has the full list, about two hours of work.
 
-Helping a parent with technology is part tech support, part diplomacy. Aim for a setup they can manage themselves, with you as a backup they trust.
+## Remote help
 
-## Start with a visit
-
-The [visiting parents checklist](../checkups/visiting-parents.md) covers everything below in about two hours. Do it in person the first time.
-
-## Simplify
-
-- **Fewer apps** on the home screen, larger text, and bold fonts.
-- **Accessibility features**: Live Captions, hearing aid pairing, Magnifier, and voice control.
-- **One password manager** they can use, or the one built into their phone, and two-step sign-in using whatever they find easiest.
-- **Automatic updates** so you don't have to remember.
-
-## Set up remote help
-
-- **Screen sharing** you've tested together: FaceTime screen sharing on Apple devices, Google Meet, or a remote support tool you trust. Agree that the only person who ever connects to their device is you.
-- **Find My** location sharing with you, if they're comfortable.
-- **Your number** in their phone's favorites, named something they'll recognize.
+Test screen sharing together (FaceTime, Google Meet, or a remote support tool you trust) and agree that only you ever connect. Put your number in their favorites, and share Find My location if they agree.
 
 ## Guard against scams
 
-Many scams in the FTC's guidance, such as grandparent and tech support scams, are aimed at older adults.
+Grandparent and tech support scams target older adults.
 
 - **Silence unknown callers** or turn on call screening, with family and doctors saved as contacts.
 - **Bank alerts** for large withdrawals, sent to them and, with permission, to you. Many banks also let you name a trusted contact.
 - **A credit freeze** at all three bureaus ([chapter 9](09-money-and-identity.md)).
 - **A family code word** for emergency calls, and the habit of hanging up and calling back.
-- **A "call me first" agreement** for any request for money, gift cards, or remote access, framed as two heads being better than one.
+- **"Call me first"** before any request for money, gift cards, or remote access.
 
-[Phishing Awareness Kit](https://github.com/neon1llc/phishing-awareness-kit) has material for walking them through the common scams, and a one-page takeaway to leave by the phone.
+[Phishing Awareness Kit](https://github.com/neon1llc/phishing-awareness-kit) has a one-page takeaway to leave by the phone.
 
 ## Plan ahead
 
-Talk about what happens if they're ill or can't manage their accounts: a legacy contact, a list of accounts and where they're kept, and who has authority. See [chapter 11](11-emergencies-and-legacy.md).
+Settle what happens if they're ill or can't manage their accounts: a legacy contact, a list of accounts, and who has authority ([chapter 11](11-emergencies-and-legacy.md)).
 
 ## Do this
 
-- [ ] Devices simplified, with accessibility settings they like.
-- [ ] Remote help tested together.
-- [ ] Unknown callers silenced or screened.
-- [ ] Bank alerts and a credit freeze in place.
-- [ ] A code word and a "call me first" agreement.
-- [ ] Their accounts on your household tech sheet, or their own.
+- [ ] Devices simplified and remote help tested.
+- [ ] Unknown callers screened, bank alerts and a credit freeze in place.
+- [ ] A code word and "call me first" agreed.
 
 ## Sources
 
-- [Scammers use fake emergencies to steal your money](https://consumer.ftc.gov/articles/scammers-use-fake-emergencies-steal-your-money), from the FTC: grandparent and family emergency scams and how to check.
+- [Scammers use fake emergencies to steal your money](https://consumer.ftc.gov/articles/scammers-use-fake-emergencies-steal-your-money), from the FTC.
 - [What to know about credit freezes and fraud alerts](https://consumer.ftc.gov/articles/what-know-about-credit-freezes-and-fraud-alerts), from the FTC: freezes are free, don't affect your score, and can be placed for children under 16.
-- [National Elder Fraud Hotline](https://ovc.ojp.gov/program/elder-fraud-abuse/national-elder-fraud-hotline), from the Justice Department's Office for Victims of Crime: the number and its hours.
+- [National Elder Fraud Hotline](https://ovc.ojp.gov/program/elder-fraud-abuse/national-elder-fraud-hotline), from the Justice Department's Office for Victims of Crime.
