@@ -6,7 +6,7 @@ description: "Check how long a device will get updates before you buy it, and wi
 
 The spec nobody prints on the box is **how many years of security updates** the device gets.
 
-- **Phones:** Google gives Pixel 8 and later seven years of OS and security updates from when each model went on sale. Samsung offers seven years on recent flagship Galaxy phones. Apple doesn't publish a fixed period. Cheaper Android phones may get far fewer, so check the maker's support page.
+- **Phones:** Google gives Pixel 8 and later seven years of OS and security updates from when each model first became available on the US Google Store. Samsung offers seven years of OS upgrades and security updates on the Galaxy S26 series. For Apple and other Android models, check the maker's current update policy.
 - **Computers:** check the model can run the current Windows or macOS, and how long that version is supported.
 - **Smart devices and routers:** check the maker publishes an update period ([chapter 8](08-smart-home.md)).
 - **Secondhand:** confirm the previous owner removed it from their account (Activation Lock on Apple devices, Factory Reset Protection on Android), or you can't use it.
@@ -35,4 +35,5 @@ More: [retire devices that can't get updates](https://github.com/neon1llc/ready-
 ## Sources
 
 - [Pixel update schedule](https://support.google.com/pixelphone/answer/4457705), from Google: seven years of OS and security updates for Pixel 8 and later.
+- [Galaxy S26 series announcement](https://news.samsung.com/us/samsung-unveils-galaxy-s26-series-most-intuitive-galaxy-ai-phone-yet/), from Samsung: seven generations of OS upgrades and seven years of security updates.
 - [Before you buy](https://neon1.tech/knowledge/guides/before-you-buy/), in neon1's Knowledge Center.
